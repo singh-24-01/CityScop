@@ -1,4 +1,4 @@
-# 🏙️ CityScope : Comparer les villes françaises, enfin simplement
+# 🏙️ CityScope : Comparer les villes françaises
 
 ## La question de départ
 
